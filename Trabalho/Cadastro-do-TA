@@ -1,0 +1,46 @@
+Localizar o contrato na pasta :
+\\dtcvcsarq-01\consolacao\SAAB\SAAB 8\SAAB 6.1\SAAB 6.1 - Coordenadoria\1- CONTRATOS\"ano"  numero do contrato
+
+- Materializar TA
+- salvar na pasta da contratada
+
+# Inserir termo no SGF
+
+OBS: Nos casos de contrato e termo enviar o link do esaj que será gerado ao fim dessa etapa 
+- Abrir a apostila 
+- Abrir SGF -> alterações contratuais -> termos
+- Clicar em novo
+- A primeira data sempre é a do tribunal
+- Preencher no campo referência a primeira data referenciada na apostila "mais antiga"
+- Preencher no campo termo:  "2ª" por exemplo
+- Preencher no campo tipo: apostila
+- Preencher no campo objeto: o motivo da apostila, interpretando o que está no termo
+- Preencher se tem reajuste
+    - Preencher na data reajuste o fim do período na tabela
+- preencher se tem garantia
+- Anexar o arquivo da apostila.
+- Copiar o extrato na lupa de pubicação e enviar o extrato para conferência da chefe
+
+## Mandar e-mail para o gestor 
+No caso do TA só enviar o email para o gestor
+
+**Assunto**: xª Termo de aditamento - contrato nº xxx
+**Anexar** TA (ou link para o esaj)
+**Corpo**:
+"Prezado, boa tarde.
+Segue o link referenciando o Termo de aditamento.
+(Assinatura)"
+
+## Imprimir no outlook como PDF
+- Salvar em qualquer pasta
+- Renomeá-lo
+- E inserir no saj
+
+## Criar tarefa - Nota de empenho
+[[Nota de empenho]]
+À SOF 2.1.1 tendo em vista a formalização do (x) termo de aditamento do contrato x
+
+ OBS.:  prestar atenção na quantidade de signatários
+        No caso de alteração no no prazo de vigência utilizar o excel para contar os dias da vigência
+        
+
