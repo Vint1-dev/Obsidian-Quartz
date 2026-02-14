@@ -1,0 +1,2 @@
+"Solicitamos a assinatura digital do contrato do contrato nº 344-24 e do Termo de Ciência e Notificação no prazo de 5 (cinco) dias úteis a partir do recebimento desta notificação.
+Ainda, solicitamos a apresentação de garantia a ser encaminhada para lucianatoledo@tjsp.jus.br e ivanetemelo@tjsp.jus.br, no prazo de 10 dias úteis no valor de R$ 58.950,00 com cobertura para 465 dias de vigência a partir da assinatura do contrato conforme Cláusula Décima Quarta do referido contrato."
